@@ -17,7 +17,8 @@ public class App {
 		
 		System.out.println("\nArea do circulo 1: "+c1.area());
 		System.out.println("Area do circulo 2: "+c2.area());
-		
+
+		Circulo[] lista = new Circulo[3];
 	}
 
 }
